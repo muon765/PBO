@@ -95,3 +95,4 @@ int main() {
     cout << "Total bobot minimum = " << totalWeight << endl;
     return 0;
 }
+
